@@ -10,6 +10,11 @@ BACK END	:	MSSQL<br />
 FRAMEWORK : ASP.NET<br />
 IDE       : VISUAL STUDIO<br />
 
+# Modules
+1) Enroll 
+2) Exam 
+3) Result
+
 # Develop by..
 Nanneboina Sumanth
 
