@@ -1,8 +1,8 @@
-# Exam_Management_System
+# Quiz_Management_System
 C#(ASP.NET) Application
 
 # Description 
-Exams can be conducted through online interface ASP.NET and maintained & store via MSSQL.
+Quizzes can be conducted through online interface ASP.NET and maintained & store via MSSQL.
 
 # About Application
 FRONTEND	:	HTML,CSS<br />
